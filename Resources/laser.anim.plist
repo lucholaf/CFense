@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>laser_frame1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+		<key>laser_frame2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{38, 96}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+		<key>laser_frame3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 96}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+		<key>laser_frame4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{110, 2}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+		<key>laser_frame5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{38, 2}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+		<key>laser_frame6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{74, 2}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+		<key>laser_frame7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 96}, {34, 92}}</string>
+			<key>offset</key>
+			<string>{0, 26}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {34, 92}}</string>
+			<key>sourceSize</key>
+			<string>{40, 144}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

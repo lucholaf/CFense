@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="TUTORIAL" resource="0" towers="tc,tt,tb">
+</string-array>
+
+<!-- Posicion 1 -->
+<string-array name="Premiere" resource="140" towers="tc,tt">
+   	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>4</item>
+	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>4</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>7</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>7</item>
+</string-array>
+<!--
+dificultad: easy 1
+-->
+
+<!-- Posicion 2 -->
+<string-array name="Groupe" resource="160" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>3</item>
+	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>3</item>
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>5</item>
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>7</item>
+   	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>7</item>
+</string-array>
+<!--
+dificultad: easy 1
+-->
+
+<!-- Posicion 3 -->
+<string-array name="Two of a kind" resource="60" towers="tc,tt">
+   	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>8</item>
+   	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>8</item>   	 
+</string-array>
+<!--
+dificultad:easy 2
+-->
+
+<!-- Posicion 4 -->
+<string-array name="Rombo" resource="70" towers="tc">
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>7</item>
+   	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>4</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>7</item>   	 
+   	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>10</item>   	 
+</string-array>
+<!--
+dificultad:easy 2
+-->
+
+<!-- Posicion 5 -->
+<string-array name="Couple" resource="50" towers="tc,tt">
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>4</item>
+   	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>11</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>11</item>
+</string-array>
+<!--
+tc,7,5
+tt,4,2
+dificultad: medio 7
+-->
+
+<!-- Posicion 6 -->
+<string-array name="Arrow tip" resource="125" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>3</item>
+   	 <item>caterpillar</item>
+   	 <item>3</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>3</item>
+   	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>5</item>
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>5</item>
+</string-array>
+<!--
+tc,2,3
+tt,3,9
+tc,5,7
+tt,6,6
+tt,7,10
+Dificultad: Media (3)
+Posicion actual: 4
+-->
+
+<!-- Posicion 7 -->
+<string-array name="Almost" resource="100" towers="tc,tt">
+  	 <item>caterpillar</item>
+  	 <item>4</item>
+  	 <item>3</item>
+  	 <item>spider</item>
+  	 <item>3</item>
+  	 <item>5</item>
+ 	 <item>spider</item>
+  	 <item>5</item>
+  	 <item>6</item>
+  	 <item>caterpillar</item>
+  	 <item>7</item>
+  	 <item>7</item>
+  	 <item>spider</item>
+  	 <item>4</item>
+  	 <item>9</item>
+ 	 <item>spider</item>
+  	 <item>3</item>
+  	 <item>10</item>
+</string-array>
+<!--
+tc,4,6
+tc,3,8
+tc,6,8
+tt,7,9
+Dificultad: Bajo (4)
+-->
+
+<!-- Posicion 8 -->
+<string-array name="Bottle" resource="100" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>7</item>
+   	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>7</item>
+   	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>9</item>
+   	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>10</item>
+</string-array>
+<!--
+tt,4,2
+tt,4,3
+tc,3,6
+tc,5,6
+Dificultad: Media(5)
+-->
+
+<!-- Posicion 9 -->
+<string-array name="T-mobile" resource="125" towers="tc">
+   	 <item>spider</item>
+   	 <item>1</item>
+   	 <item>2</item>
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>2</item>
+   	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>2</item>
+   	 <item>spider</item>
+   	 <item>8</item>
+   	 <item>2</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>8</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>9</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>10</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>11</item>
+</string-array>
+<!--
+tc,1,2
+tc,4,4
+tc,4,7
+tc,4,10
+tc,8,9
+Dificultad: Alta (8)
+-->
+
+<!-- Posicion 10 -->
+<string-array name="N" resource="150" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>9</item>
+   	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>7</item>
+   	 <item>caterpillar</item>
+   	 <item>3</item>
+   	 <item>4</item>
+   	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>5</item>
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>6</item>
+   	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>7</item>
+   	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>4</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>2</item>
+</string-array>
+<!--
+tt,3,3
+tt,5,3
+tt,6,6
+tt,2,7
+tt,3,8
+tt,7,9
+Dificultad: Media (6)
+-->
+
+<!-- Posicion 11 -->
+<string-array name="Nameless" resource="75" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>11</item>
+   	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>6</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>5</item>
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>2</item>
+	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>6</item>
+</string-array>
+<!--
+tc,4,5
+tc,5,6
+tt,7,8
+Dificultad: Alta, no lo pude pasar.
+-->
+
+<!-- Posicion 12 -->
+<string-array name="Power me up" resource="80" towers="tc,tt">
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>4</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>6</item>
+	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>9</item>
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tc,3,7 -> 1 pu
+tt,5,3 -> 2 pu
+Dificultad: Alta(8) - No Lo puedo Pasar !!!
+-->
+
+<!-- Posicion 13 -->
+<string-array name="3 Lines" resource="125" old="105" towers="tc,tt,tb">
+	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>4</item>
+	 <item>caterpillar</item>
+   	 <item>8</item>
+   	 <item>4</item>
+	 <item>chip</item>
+   	 <item>3</item>
+   	 <item>6</item>
+	 <item>chip</item>
+   	 <item>5</item>
+   	 <item>7</item>
+	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>9</item>
+	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>8</item>
+</string-array>
+<!--
+tc,2,7
+tt,7,9
+tb,4,4
+Dificultad: Facil(3)
+-->
+
+<!-- Posicion 14 -->
+<string-array name="Chip" resource="90" towers="tc,tt,tb">
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>2</item>
+	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>3</item>   
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>4</item>   	 
+	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>6</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>8</item>
+</string-array>
+<!--
+tc,4,4
+tc,4,9
+tc,5,6
+Dificultad: Baja(7)
+-->
+
+<!-- Posicion 15 -->
+<string-array name="Mass Attack" resource="140" towers="tc,tt,tb">
+	 <item>chip</item>
+   	 <item>1</item>
+   	 <item>2</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>2</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>2</item>
+	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>3</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>3</item>
+	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>3</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>4</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>4</item>
+	 <item>spider</item>
+   	 <item>1</item>
+   	 <item>5</item>   
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>6</item>          
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>7</item>
+	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>7</item>
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>8</item>
+	 <item>caterpillar</item>
+   	 <item>1</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tc,1,3
+tc,2,4
+tc,3,5
+tb,5,7
+Dificultad: Bajo(4)
+-->
+
+<!-- Posicion 16 -->
+<string-array name="Bomba che" resource="100" towers="tc,tt,tb">
+   	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>1</item>
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>3</item>
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>9</item>
+   	 <item>caterpillar</item>
+   	 <item>3</item>
+   	 <item>10</item>
+</string-array>
+<!--
+tc,2,10
+tc,7,10
+tb,4,5
+Dificultad: Facil (3)
+-->
+
+<!-- Posicion 17 -->
+<string-array name="Lined" resource="130" towers="tc,tt,tb">
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>3</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>4</item>
+	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>4</item>	
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>5</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>6</item>
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>7</item>	
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>7</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>8</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tt,7,4
+tc,6,5
+tc,5,6
+tb,3,8
+1 LTA araa segunda del medio y luego bomba
+Dificultad: Media (6)
+-->
+
+<!-- Posicion 18 -->
+<string-array name="Smile" resource="175" towers="tc,tt,tb">
+	 <item>chip</item>
+   	 <item>2</item>
+   	 <item>3</item> 
+	 <item>chip</item>
+   	 <item>7</item>
+   	 <item>3</item>
+	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>6</item>
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>6</item>
+	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>9</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>10</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>11</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>11</item>
+	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>10</item>
+	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tb,2,3
+tb,7,3
+tt,4,6
+Dificultad: Baja (4)
+-->
+
+<!-- Posicion 19 -->
+<string-array name="Hurry" resource="140" towers="tc,tt,tb">
+	 <item>chip</item>
+   	 <item>3</item>
+	 <item>2</item>
+	 <item>chip</item>
+   	 <item>6</item>
+   	 <item>2</item>
+	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>3</item>
+	 <item>chip</item>
+   	 <item>2</item>
+   	 <item>4</item>
+	 <item>chip</item>
+   	 <item>7</item>
+   	 <item>4</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>8</item>
+	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>8</item>
+	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tb,2,6 - Explotar bombas en secuencia cdo chips y spyder en rango
+tb,6,6
+tt,4,8
+Dificultad: Media (6)
+-->
+
+<!-- Posicion 20 -->
+<string-array name="Aligned" resource="125" towers="tc,tt,tb">
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>5</item> 
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>5</item>
+	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>5</item>
+	 <item>spider</item>
+   	 <item>8</item>
+   	 <item>5</item>
+	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>7</item>
+</string-array>
+<!--
+tc,4,4 
+tt,2,6
+tt,7,6
+LTA al chip cdo entra en rango, PU tc, luego PU tt. Finalmente LTA spyder derecha y PU tt.
+Dificultad: Media (7)
+-->
+
+<!-- Posicion 21 -->
+<string-array name="Timing" resource="50" towers="tc,tt,tb">
+   	 <item>chip</item>
+   	 <item>5</item>
+   	 <item>2</item>
+	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>3</item>
+	 <item>chip</item>
+   	 <item>2</item>
+   	 <item>5</item>
+	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>7</item>
+   	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>8</item>
+   	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>10</item>
+</string-array>
+<!--
+tb,4,3
+Dificultad: Media (7)
+-->
+
+<!-- Posicion 22 -->
+<string-array name="Divided" resource="175" towers="tc,tt,tb">
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>2</item>	
+	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>4</item>
+	 <item>chip</item>
+   	 <item>7</item>
+   	 <item>4</item> 
+	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>5</item>
+	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>5</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>7</item>
+	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>6</item>
+	 <item>spider</item>
+   	 <item>1</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tc,1,4
+tc,3,5
+tc,7,4
+tt,6,6
+tc,8,8
+Dificultad: Media (7)
+-->
+
+<!-- Posicion 23 -->
+<string-array name="A few" resource="150" towers="tc,tt,tb">
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>2</item>
+	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>4</item>	
+	 <item>chip</item>
+   	 <item>2</item>
+   	 <item>6</item>
+	 <item>chip</item>
+   	 <item>7</item>
+   	 <item>6</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tc,2,4
+tc,7,4
+tc,2,8
+tc,7,8
+5 PowerUp
+Dificultad: Media (7)
+-->
+
+<!-- Posicion 24 -->
+<string-array name="Caterpillar" resource="120" towers="tc,tt,tb">
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>2</item>
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>3</item>	
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>5</item>
+	 <item>spider</item>
+   	 <item>5</item>
+   	 <item>5</item>
+	 <item>caterpillar</item>
+   	 <item>7</item>
+   	 <item>5</item>
+ 	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>6</item>
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>7</item>
+	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>8</item>
+	 <item>caterpillar</item>
+   	 <item>3</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tt,2,5
+tb,4,5
+tt,7,5
+Dificultad: Medio (6)
+-->
+
+<!-- Posicion 25 -->
+<string-array name="No friends" resource="100" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>1</item>
+   	 <item>2</item>
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>3</item>
+   	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>4</item>
+   	 <item>caterpillar</item>
+   	 <item>4</item>
+   	 <item>6</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>6</item>
+   	 <item>caterpillar</item>
+   	 <item>1</item>
+   	 <item>10</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>11</item>
+ </string-array>
+<!--
+tc,6,2
+tc,2,10
+tt,2,9
+tt,5,10
+Dificultad: Dificil (7)
+-->
+
+<!-- Posicion 26 -->
+<string-array name="Double D" resource="125" towers="tc,tt">
+   	 <item>spider</item>
+   	 <item>8</item>
+   	 <item>2</item>
+   	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>3</item>
+   	 <item>spider</item>
+   	 <item>6</item>
+   	 <item>4</item>
+   	 <item>spider</item>
+   	 <item>1</item>
+   	 <item>6</item>
+   	 <item>spider</item>
+   	 <item>2</item>
+   	 <item>7</item>
+   	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>8</item>
+   	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>9</item>
+</string-array>
+<!--
+tt,5,1
+tc,1,9
+tc,3,10
+tc,6,10
+tc,8,10
+Solucion media rara, pq spyder dobla al final. Revisar !!!
+Dificultad: Media(6) - No lo sacas mas !
+Posicion actual: 14
+-->
+
+<!-- Posicion 27 -->
+<string-array name="Revenge" resource="170" towers="tc,tt,tb">
+	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>3</item>
+	 <item>spider</item>
+   	 <item>4</item>
+   	 <item>4</item>
+	 <item>spider</item>
+   	 <item>3</item>
+   	 <item>5</item>
+	 <item>caterpillar</item>
+   	 <item>5</item>
+   	 <item>6</item>	
+	 <item>caterpillar</item>
+   	 <item>2</item>
+   	 <item>7</item>
+	 <item>spider</item>
+   	 <item>7</item>
+   	 <item>7</item>
+	 <item>chip</item>
+   	 <item>4</item>
+   	 <item>8</item>
+	 <item>caterpillar</item>
+   	 <item>6</item>
+   	 <item>9</item>	
+</string-array>
+<!--
+tc,4,4
+tb,4,6
+tc,6,6
+tc,3,8
+1 PU tc,4,4 + 1 PU tc,3,8 - Mata Chip 1
+1 PU tc,4,4 + 1 PU tc 3,8 - Mata Chip 2
+1 LTA arana mas a la derecha
+Luego Bomba medio
+Dificultad: Dificil (7)
+-->
+
+</resources>

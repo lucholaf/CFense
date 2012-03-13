@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fireball_frame1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 64}, {38, 58}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {38, 58}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{-1, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{402, 2}, {40, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{242, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 64}, {38, 58}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {38, 58}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{82, 64}, {38, 58}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {38, 58}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{444, 2}, {38, 58}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {38, 58}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{162, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{1, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{1, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{362, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{82, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{202, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{-1, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+		<key>fireball_frame9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{122, 2}, {38, 60}}</string>
+			<key>offset</key>
+			<string>{-1, -0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 60}}</string>
+			<key>sourceSize</key>
+			<string>{40, 60}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 128}</string>
+	</dict>
+</dict>
+</plist>

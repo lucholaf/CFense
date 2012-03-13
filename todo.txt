@@ -1,0 +1,14 @@
+. energy bar flicker
+. check for memory leaks
+. ipod touch slow when planning path
+. limit shoot sounds
+
+misc:
+. probar != pixel formats
+. read http://allseeing-i.com/Performance-tips-for-Cocos2d-for-iPhone
+. lite version?
+
+eze:
+. ipad 72x72 icon, iphone icon 57x57
+. ipad 768x1024 menu y background, iphone 320x480 
+. colores mas vivos

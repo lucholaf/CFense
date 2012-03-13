@@ -1,0 +1,34 @@
+Index: libs/cocos2d/CCDirector.m
+===================================================================
+--- libs/cocos2d/CCDirector.m	(revision 235)
++++ libs/cocos2d/CCDirector.m	(working copy)
+@@ -208,6 +208,10 @@
+ #endif	// CC_DIRECTOR_FAST_FPS
+ }
+ 
++#define DT 0.025
++
++static ccTime accumDtt;
++
+ //
+ // main loop
+ //
+@@ -215,10 +219,16 @@
+ {    
+ 	/* calculate "global" dt */
+ 	[self calculateDeltaTime];
+-	
++
++	accumDtt += dt;
++
+ 	/* tick before glClear: issue #533 */
+ 	if( ! isPaused_ ) {
+-		[[CCScheduler sharedScheduler] tick: dt];	
++		//PATCH: QUITARTS fixed time
++		while (accumDtt > DT) {
++			[[CCScheduler sharedScheduler] tick:DT];	
++			accumDtt -= DT;
++		}
+ 	}
+ 
+ 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
